@@ -1,0 +1,22 @@
+#field {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #targetfield {
+  min-width: 300px;
+  min-height: 100px;
+  box-sizing: content-box;
+  text-align: center;
+  }
+  
+  #toptext {
+    font-size: 30px;
+  }
+
+  #text {
+    font-size: 30px;
+  }
